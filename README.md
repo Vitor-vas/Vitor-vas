@@ -1,12 +1,10 @@
-# 👋 Olá, eu sou o Vitor Souza
-
-**`Estudante de Computação | Desenvolvedor em formação`**
+<p align="center"> <img src="Gemini_Generated_Image_iak58yiak58yiak5(1).jpg" alt="Banner Vitor Souza" width="100%"> </p>**`Estudante de Computação | Desenvolvedor em formação`**
 
 Estudo Computação na PUC Minas e estou construindo minha base em desenvolvimento de software, com foco em **Java**, **Python** e **desenvolvimento web**. Aqui no GitHub eu guardo meus trabalhos da faculdade, projetos de estudo e experimentos.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vitor--vas-black?style=plastic&logo=github)](https://github.com/Vitor-vas)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1a1a1a?style=flat-square&logo=linkedin)](COLOQUE-AQUI-O-LINK-DO-SEU-LINKEDIN)
-[![Email](https://img.shields.io/badge/EMAIL-1a1a1a?style=flat-square&logo=gmail)](mailto:COLOQUE-AQUI-SEU-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1a1a1a?style=flat-square&logo=linkedin)](www.linkedin.com/in/vitorasouza)
+[![Email](https://img.shields.io/badge/EMAIL-1a1a1a?style=flat-square&logo=gmail)](mailto:vitoraugustosouzas007@gmail.com)
 
 ---
 
@@ -38,8 +36,7 @@ Estudo Computação na PUC Minas e estou construindo minha base em desenvolvimen
 ## ⌨️ Estatísticas
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitor-vas&show_icons=true&theme=dark&hide_border=true)](https://github.com/Vitor-vas)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-vas&layout=compact&theme=dark&hide_border=true)](https://github.com/Vitor-vas)
+[![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=b8a9616c-20fd-42be-a97b-ae0b7d9fdfc1&custom_title=WakaTime+Stats&card_width=466&line_height=23&layout=compact&display_format=time&disable_animations=false&langs_count=6)](https://nice-readme.vercel.app/wakatime)
 
 ---
 
