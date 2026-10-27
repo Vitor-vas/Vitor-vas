@@ -26,10 +26,10 @@ Estudo Computação na PUC Minas e estou construindo minha base em desenvolvimen
 
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
+| [Portifolio](https://github.com/Vitor-vas/Vitor-vas-portfolio) | Portifolio profissional | React |
 | [CollectGame_Python](https://github.com/Vitor-vas/CollectGame_Python) | Trabalho final de Python: um jogo de coleta | Python |
-| [IntroAlgs_pygame_CollectGame](https://github.com/Vitor-vas/IntroAlgs_pygame_CollectGame) | Trabalho final de Introdução a Algoritmos | Python |
 | [Estudos_Java](https://github.com/Vitor-vas/Estudos_Java) | Projetos de estudo em Java | Java |
-| [PraticaProgramacaoModular1](https://github.com/Vitor-vas/PraticaProgramacaoModular1) | Prática de programação modular | Java |
+| [Sistema_hospitalar](https://github.com/leopettersen/TP-sistema-hospitalar) | Prática de programação modular | Java Thymeleaf |
 
 ---
 
@@ -42,6 +42,6 @@ Estudo Computação na PUC Minas e estou construindo minha base em desenvolvimen
 
 ## 🌱 No momento
 
-- Aprofundando em Java e Spring Boot
+- Aprofundando em Java, Spring Boot, POO e react
 - Praticando desenvolvimento web
 - Organizando meus projetos aqui no GitHub
